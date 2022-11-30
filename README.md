@@ -1,7 +1,5 @@
 # I’m Sin-Tat
-Hi there 👋 I’m Sin-Tat.
-
-I’m a passionate Full Stack Developer who enjoys crafting engaging frontend and developing robust applications. With my 9+ years of experience, I’m eager to help companies build elegant, well-designed, cost-effective digital solutions that solve problems, delight people, and boost productivity. 
+Hi there 👋 I’m a passionate Full Stack Developer who enjoys crafting engaging frontend and developing robust applications to solve problems, delight people, and boost productivity. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cover_github_dark.png">
@@ -10,8 +8,6 @@ I’m a passionate Full Stack Developer who enjoys crafting engaging frontend an
 </picture>
 
 ## 🧰 Technology Stack
-I’m enthusiastic to build modern applications with various tools. I believe in *cloud-native architecture* which enables the delivery of scalable and cost-effective systems.
-
 - **Web Frontend:** 
     - JavaScript: [React](https://reactjs.org), [Next.js](https://nextjs.org), [Vue.js](https://vuejs.org), [Nuxt](https://nuxtjs.org)
     - UI & CSS: [SCSS](https://sass-lang.com), [Tailwind CSS](https://tailwindcss.com), [Mantine](https://mantine.dev), [Vuetify](https://vuetifyjs.com)
