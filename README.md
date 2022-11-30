@@ -9,13 +9,6 @@ I’m a passionate Full Stack Developer who enjoys crafting engaging frontend an
   <img alt="I design, develop and optimize software that solve problems and delight people" src="cover_github.png">
 </picture>
 
-## 🤓 What do I do?
-**I design** -- System and interaction design.
-
-**I build** -- Web frontend and backend.
-
-**I optimise** -- Performance and user experience.
-
 ## 🧰 Technology Stack
 I’m enthusiastic to build modern applications with various tools. I believe in *cloud-native architecture* which enables the delivery of scalable and cost-effective systems.
 
