@@ -1,7 +1,7 @@
 # I’m Sin-Tat
 Hi there 👋 I’m Sin-Tat.
 
-I’m a passionate fullstack developer with 9+ years of experience in web development. I’m eager to help companies build elegant, well-designed, cost-effective digital solutions that solve problems, engage with people, and boost productivity. 
+I’m a passionate Full Stack Developer who enjoys crafting engaging frontend and developing robust applications. With my 9+ years of experience, I’m eager to help companies build elegant, well-designed, cost-effective digital solutions that solve problems, delight people, and boost productivity. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cover_github_dark.png">
