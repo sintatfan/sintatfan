@@ -1,4 +1,4 @@
-# I’m [Sin-Tat Fan](https://sintat.fan)
+# I’m [Terence Fan](https://sintat.fan)
 Hi there 👋 I’m a passionate Full Stack Developer who enjoys crafting engaging frontend and developing robust applications to solve problems, delight people, and boost productivity. 
 
 <picture>
